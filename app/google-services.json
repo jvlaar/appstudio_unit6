@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "137802781881",
+    "firebase_url": "https://trivia-f06e8.firebaseio.com",
+    "project_id": "trivia-f06e8",
+    "storage_bucket": "trivia-f06e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137802781881:android:3a8d141d309da82b",
+        "android_client_info": {
+          "package_name": "com.example.josvlaar.trivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137802781881-0vep6h5k4otv9hk46800d185kkgv29rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.josvlaar.trivia",
+            "certificate_hash": "258729225855ad62f4f341c414de618eb74a8aa9"
+          }
+        },
+        {
+          "client_id": "137802781881-ijcoukvu2kcj5vtf5qbm668v5k9fjbjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW5cAp9wiXuW0YWi6t6g9MXRnu9QzG_as"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137802781881-ijcoukvu2kcj5vtf5qbm668v5k9fjbjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
